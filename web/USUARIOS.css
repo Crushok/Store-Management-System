@@ -1,0 +1,176 @@
+body {
+   background-color: black; /* Changed background color to black */
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+#Editbox1
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #000000;
+   background: radial-gradient(circle, #2E8B57 0%, #000000 100%);
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   line-height: 693px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: animate-fade-in-left 1000ms linear 0ms infinite normal both;
+   animation: animate-fade-in-left 1000ms linear 0ms infinite normal both;
+}
+#Editbox1:focus
+{
+   border-color: #66AFE9;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#wb_Heading1
+{
+   background-color: transparent;
+   background-image: url('images/USUARIOS_Heading1_bkgrnd.png');
+   background-repeat: repeat;
+   background-position: left top;
+   border: 0px solid transparent;
+   margin: 0;
+   padding: 0;
+   -webkit-animation: animate-fade-in-left 1000ms linear 0ms infinite normal both;
+   animation: animate-fade-in-left 1000ms linear 0ms infinite normal both;
+   text-align: left;
+}
+#Heading1
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 32px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Shape2
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape3
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape3
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape4
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+
+
+#Shape4
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Editbox2
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #000000;
+   background: radial-gradient(circle, #2E8B57 0%, #000000 100%);
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   line-height: 56px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: animate-fade-in-left 1000ms linear 0ms infinite normal both;
+   animation: animate-fade-in-left 1000ms linear 0ms infinite normal both;
+}
+#Editbox2:focus
+{
+   border-color: #66AFE9;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#wb_Shape5
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape5
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape6
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape6
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape7
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape7
+{
+   border-width: 0;
+   vertical-align: top;
+}
+
