@@ -34,7 +34,7 @@ Ensure the GlassFish server is properly configured within NetBeans, and you have
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="left" alt="Leaflet" width="30px" style="padding-right:10px;" src="https://leafletjs.com/docs/images/logo.svg" />
+<img align="left" alt="Leaflet" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Leaflet/Leaflet/master/dist/images/logo.png" />
 <br />
 
 
